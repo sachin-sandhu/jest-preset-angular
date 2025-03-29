@@ -441,16 +441,16 @@ __metadata:
   linkType: hard
 
 "@angular/platform-browser-dynamic@npm:^19.0.6":
-  version: 19.0.6
-  resolution: "@angular/platform-browser-dynamic@npm:19.0.6"
+  version: 19.2.4
+  resolution: "@angular/platform-browser-dynamic@npm:19.2.4"
   dependencies:
     tslib: "npm:^2.3.0"
   peerDependencies:
-    "@angular/common": 19.0.6
-    "@angular/compiler": 19.0.6
-    "@angular/core": 19.0.6
-    "@angular/platform-browser": 19.0.6
-  checksum: 10/2fe494cda4cbcac2e471afa432e04d696e8aba12d30120fe48568719d0e52523dcc3e5807c8edbfaafe4f1490bf14f967e49ff2d4d11f0c9903c55741fa310c1
+    "@angular/common": 19.2.4
+    "@angular/compiler": 19.2.4
+    "@angular/core": 19.2.4
+    "@angular/platform-browser": 19.2.4
+  checksum: 10/a282200b36b4446e5c52346f8ab9cd3b23505fec7c2a7ac502bf642d1c56b61375f4ec64a3269dea6908e28eec9db968791ddfe98b1bdc3bb6112f4858097fb4
   languageName: node
   linkType: hard
 
