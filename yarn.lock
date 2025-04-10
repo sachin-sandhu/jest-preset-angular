@@ -455,18 +455,18 @@ __metadata:
   linkType: hard
 
 "@angular/platform-browser@npm:^19.0.6":
-  version: 19.0.6
-  resolution: "@angular/platform-browser@npm:19.0.6"
+  version: 19.2.6
+  resolution: "@angular/platform-browser@npm:19.2.6"
   dependencies:
     tslib: "npm:^2.3.0"
   peerDependencies:
-    "@angular/animations": 19.0.6
-    "@angular/common": 19.0.6
-    "@angular/core": 19.0.6
+    "@angular/animations": 19.2.6
+    "@angular/common": 19.2.6
+    "@angular/core": 19.2.6
   peerDependenciesMeta:
     "@angular/animations":
       optional: true
-  checksum: 10/b99f5ef86f724bc9c3235bcac7cc2f30d7a8bc3abbf5e64a1792ab6746b002499a1a19013a1c3078c977819f02620a73c14b400e45b4e426b74f121707bf9a99
+  checksum: 10/59e895a4ce4a7841b7b8f698c7c0f4f316092b8f0fc206ea96537d8a03a5b4e89c4a766d50618674d6c3ae2cee5ed72f430ecef54b58528cd9515dba7affaaaa
   languageName: node
   linkType: hard
 
